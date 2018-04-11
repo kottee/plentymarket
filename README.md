@@ -5,6 +5,8 @@ Novalnet payment plugin for plentymarkets is available in <b>EN, DE</b>
 
 Support is available in: <b> EN, DE, FR, ES, IT, BS, CR, RU, HI, TA</b>
 
+
+
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
 ## Important functions for plentymarkets
