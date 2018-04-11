@@ -1,4 +1,4 @@
-# NOVALNET PAYMENT PLUGIN FOR PLENTYMARKETS
+# PAYMENT PLUGIN FOR PLENTYMARKETS
 Novalnet payment plugin for plentymarkets simplifies your daily work by automating the entire payment process, from checkout till collection. This plugin is designed to help you increase your sales by offering various payment methods on a one-page checkout. The plugin which is perfectly adjusted to the plentymarkets shop with top-quality range of services of the payment provider.
 
 
